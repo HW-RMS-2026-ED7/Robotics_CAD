@@ -3,6 +3,10 @@
 ## Overview
 This repository contains the Computer-Aided Design (CAD) files for the Robot Mechanical Systems group project. All designs are created using **Autodesk Inventor** and organized hierarchically to represent the complete robot assembly.
 
+## Alternate Hosting
+Files available on grabcad too https://grabcad.com/library/spool-style-pick-and-place-robot-1
+
+
 ## Required Software
 - **Autodesk Inventor** (2026)
 

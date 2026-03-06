@@ -1,0 +1,31 @@
+﻿Study Static Analysis:1 started: 03/03/2026, 17:53:04
+Number of configurations: 1
+Default mesh: 3416 elements, 6540 nodes
+Mesh at contact 1 is too coarse
+Solution time 0.6s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 03/03/2026, 17:53:05
+Total time 0:00:01
+
+Study Static Analysis:1 started: 03/03/2026, 17:57:45
+Number of configurations: 1
+Default mesh: 3416 elements, 6540 nodes
+Mesh at contact 1 is too coarse
+The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
+Solution time 0.6s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 03/03/2026, 17:57:46
+Total time 0:00:01
+
+Study Static Analysis:1 started: 03/03/2026, 20:47:21
+Number of configurations: 1
+Default mesh: 4062 elements, 7808 nodes
+Mesh at contact 1 is too coarse
+Solution time 0.5s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.31  on element 1366 finished: 03/03/2026, 20:47:25
+Total time 0:00:04
+

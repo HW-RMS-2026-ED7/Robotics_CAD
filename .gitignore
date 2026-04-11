@@ -5,3 +5,9 @@ XM,H-430_idler.stp
 parts/OldVersions
 sub_assemblies/OldVersions
 *.html
+
+/Images
+
+BOM_main.xml
+
+OldVersions/
